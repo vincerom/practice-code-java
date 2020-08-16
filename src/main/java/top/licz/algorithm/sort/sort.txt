@@ -1,0 +1,27 @@
+
+1. Bubble Sort
+  Time:
+    Best: O(n^2)
+    Worst: O(n^2)
+    Average: O(n^2)
+  Space: O(1)
+  Stable: true
+
+2. Insert Sort
+  Time:
+    Best: O(n^2)
+    Worst: O(n^2)
+    Average: O(n^2)
+  Space: O(1)
+  Stable: true
+
+3. Quick Sort
+
+4. Selection Sort
+  Time: O(n^2)
+  Space: O(1)
+  Stable: false
+
+5. Merge Sort
+
+6. Shell Sort

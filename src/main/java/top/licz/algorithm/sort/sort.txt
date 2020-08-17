@@ -1,3 +1,4 @@
+Sort Algorithm
 
 1. Bubble Sort
   Time:
@@ -16,6 +17,12 @@
   Stable: true
 
 3. Quick Sort
+  Time:
+    Best: O(nlogn)
+    Worst: O(n^2)
+    Average: O(nlogn)
+  Space: O(logn)
+  Stable: false
 
 4. Selection Sort
   Time: O(n^2)
@@ -23,5 +30,11 @@
   Stable: false
 
 5. Merge Sort
+  Time:
+    Best: O(nlogn)
+    Worst: O(nlogn)
+    Average: O(nlogn)
+  Space: O(n)
+  Stable: true
 
 6. Shell Sort

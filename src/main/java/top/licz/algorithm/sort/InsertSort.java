@@ -7,7 +7,7 @@ package top.licz.algorithm.sort;
  * 将左侧元素依次赋值覆盖右侧元素，找到插入位置后将另记录的元素值直接赋值到插入的位置
  * 插入排序内循环遍历的是左侧有序的序列
  *
- * @author lys1304
+ * @author vince
  */
 public class InsertSort implements Sort {
 

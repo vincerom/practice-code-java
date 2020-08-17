@@ -5,7 +5,7 @@ package top.licz.algorithm.sort;
  * 从第一个位置开始，遍历从该位置开始到数组结尾的所有元素，找出最小的元素与该位置交换。依次向右交换剩余最小的元素，直到结尾。
  * 选择排序遍历的是右侧无序的序列
  *
- * @author lys1304
+ * @author vince
  */
 public class SelectionSort implements Sort {
 

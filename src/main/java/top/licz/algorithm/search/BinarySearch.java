@@ -4,6 +4,8 @@ package top.licz.algorithm.search;
  * 基于数组的二叉搜索树算法
  * 1. 循环实现
  * 2. 递归实现
+ *
+ * @author vince
  */
 public class BinarySearch {
 

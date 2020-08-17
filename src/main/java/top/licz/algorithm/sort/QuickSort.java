@@ -1,5 +1,10 @@
 package top.licz.algorithm.sort;
 
+/**
+ * 快速排序
+ *
+ * @author vince
+ */
 public class QuickSort implements Sort {
 
     public static void main(String[] args) {

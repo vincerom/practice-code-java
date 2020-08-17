@@ -7,6 +7,8 @@ import java.util.List;
  * 泛型&通配符
  * 泛型类、泛型方法、泛型静态方法、泛型属性
  * Producer extends, Consumer super (PECS原则)
+ *
+ * @author vince
  */
 public class Genericity {
 

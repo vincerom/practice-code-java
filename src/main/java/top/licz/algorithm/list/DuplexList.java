@@ -1,6 +1,10 @@
 package top.licz.algorithm.list;
 
-
+/**
+ * 双向链表类
+ *
+ * @author vince
+ */
 public class DuplexList {
 
     public static void main(String[] args) {

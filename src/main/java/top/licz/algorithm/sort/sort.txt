@@ -38,3 +38,9 @@ Sort Algorithm
   Stable: true
 
 6. Shell Sort
+  Time:
+    Best: O(n^1.3)
+    Worst: O(n^2)
+    Average: - relative to delta
+  Space: O(1)
+  Stable: false

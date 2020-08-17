@@ -2,7 +2,7 @@ package top.licz.algorithm.sort;
 
 /**
  * 冒泡排序
- * 从左向右两两对比，将最大的元素交换至最右侧。每一趟循环结束，右侧有序序列将多一位元素，直至整个序列有序。
+ * 从左向右两两对比，将最大的元素交换至无序序列最右侧。每一趟循环结束，右侧有序序列将多一位元素，直至整个序列有序。
  *
  * @author vince
  */
@@ -28,7 +28,6 @@ public class BubbleSort implements Sort {
                 print(arr);
             }
         }
-
     }
 
 }
